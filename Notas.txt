@@ -1,0 +1,7 @@
+PAra instaar json-server
+> npm install -g json-server
+https://github.com/typicode/json-server.git
+
+Para ejecutar el servidor
+> json-server --watch db.json --port 3001
+=============================================
